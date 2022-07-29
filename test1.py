@@ -12,3 +12,14 @@ data = {
 database = client['myinfo']
 collection = database["sudh"]
 collection.insert_one(data)
+
+
+
+
+khugjbhnbhjg
+
+
+sdafsdfdsfds
+
+
+ghjgiujhjkh
